@@ -1,0 +1,56 @@
+#footer{
+    height: 550px;
+    margin-top: 100px;
+    background-color: #f5f5f5;
+    
+}
+#dl1{
+    position: absolute;
+    top: 2372px;
+    left: 93px;
+}
+.href{
+    text-decoration: none;
+    color: #0e0e0ea6;
+    font-size: 18px;
+    font-weight: 500;
+}
+#dl2{
+    position: absolute;
+    top: 2372px;
+    left: 343px;
+}
+#dl3{
+    position: absolute;
+    top: 2372px;
+    left: 600px;
+}
+#dl4{
+    position: absolute;
+    top: 2372px;
+    left: 820px;
+}
+#dl5{
+    position: absolute;
+    top: 2372px;
+    left: 1100px;
+}
+#hr1{
+    position: absolute;
+    top: 2372px;
+}
+#href5{
+    position: absolute;
+    right: 1372px;
+    top: 422px;
+}
+
+#h51{
+    font-size: 12px;
+    position: absolute;
+    top: 432px;
+    right: 922px;
+}
+#logo{
+margin-right:24px;
+}

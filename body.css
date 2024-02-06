@@ -1,0 +1,119 @@
+
+#div4{
+    background: rgba(255,255,255,.6588235294) url(./images2/angle-left-primary-icon.svg) center no-repeat !important;
+    left: 0px !important;
+    outline: none;
+    width: 48px;
+    height: 48px;
+    border-width: 1px;
+    min-height: 3em;
+    border-radius: 50px;
+    border-style: solid;
+    border-color: #e0e0e0;
+    margin-left: 24px;
+    position: absolute;
+    bottom: 122px;
+    z-index: -1;
+
+}
+#div5{
+    background: rgba(255,255,255,.6588235294) url(./images2/angle-right-primary-icon.svg) center no-repeat !important;
+    right: 0px !important;
+    outline: none;
+    width: 48px;
+    height: 48px;
+    border-width: 1px;
+    min-height: 3em;
+    border-radius: 50px;
+    border-style: solid;
+    border-color: #e0e0e0;
+    margin-right: 24px;
+    position: absolute;
+    bottom: 122px;
+}
+
+.carousel-inner{
+    z-index: -1;
+}
+#card{
+    position: absolute;
+    top: 982px;
+    left: 58px;
+    height: 18rem;
+    cursor: pointer;
+    transition: 2s ease-in;
+}
+#card1{
+    position: absolute;
+    left: 330px;
+    top: 982px;
+    cursor: pointer;
+}
+#card2{
+    position: absolute;
+    left: 600px;
+    top: 982px;
+    cursor: pointer;
+}
+#card3{
+    position: absolute;
+    top: 982px;
+    left: 870px;
+    cursor: pointer;
+}
+#card4{
+    position: absolute;
+    top: 982px;
+    left: 1140px;
+    cursor: pointer;
+}
+#paytm{
+    position: absolute;
+    top: 880px;
+}
+#paytm1{
+    position: absolute;
+    top: 880px;
+    left: 723px;
+}
+#h21{
+    position: absolute;
+    top: 950px;
+    left: 22px;
+}
+#h22{
+    position: absolute;
+    top: 1530px;
+    left: 52px;
+    
+}
+#card5{
+    position: absolute;
+    top: 1580px;
+    left: 82px;
+}
+#card6{
+    position: absolute;
+    top: 1580px;
+    left: 357px;
+}
+#card7{
+    position: absolute;
+    top: 1580px;
+    left: 632px;
+}
+#card8{
+    position: absolute;
+    top: 1580px;
+    left: 904px;
+}
+#card9{
+    position: absolute;
+    top: 1580px;
+    left: 1175px;
+}
+#web{
+    margin-top: 1022px;
+    width: 1480px;
+    padding-left: 10px;
+}
